@@ -14,5 +14,9 @@ Ancak bu projenin sadece HTML bilgilerinizi geliştirmek için olduğunu unutmam
 
 https://github.com/Sleexc/odin-recipes
 
+## Project: Landing Page
 
+Flexbox kullanarak sayfa tasarlama.
+
+https://github.com/Sleexc/top-landing-page
   
